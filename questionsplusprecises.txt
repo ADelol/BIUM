@@ -1,0 +1,15 @@
+Déterminer la Ville idéale pour le profil à déterminer (tranches d'âges, par exemple une famille)
+
+Quelles sont les caractéristiques de la ville idéale (pays idéal ?) selon l'âge
+Reseaux sociaux pour determiner ce que les gens aiment
+
+Si on utilise des reseaux sociaux, comment déterminer l'age ?
+Mettre en relation avec nos jeux de données ? 
+
+Basé sur twitter, les gens qui discutent du sujet (lieu d'habitation ici)
+
+
+Trouver des données sur des profils, analyse de leurs profils et de leurs caractéristiques afin d'essayer de déterminer leur ville idéale
+selon ces caractéristiques
+
+Lien entre les données sur les profils récupérés et leur ville idéale à trouver
