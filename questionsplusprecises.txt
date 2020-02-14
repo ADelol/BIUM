@@ -1,6 +1,27 @@
+ completion_percentage ; gender ; region ; age ; body ; working_field ; spoken_language ; hobbies ;
+
+Trouver une BD avec l'âge + autre chose :
+	- Age inféré https://arxiv.org/pdf/1601.04621.pdf
+	
+
+
 Déterminer la Ville idéale pour le profil à déterminer (tranches d'âges, par exemple une famille)
 
-Quelles sont les caractéristiques de la ville idéale (pays idéal ?) selon l'âge
+Caractériser les gens en les classant par profil : 
+
+	- Age
+	- Centres d'interets
+	- Activité professionelle
+	
+Quelles sont les caractéristiques de la ville idéale (pays idéal ?) Se limiter à un pays ? 
+Quel est le lien entre le profil et les transports
+
+
+
+Caractériser les lieux d'habitation (ville/pays) :
+	- Age moyen de la population
+	- 
+
 Reseaux sociaux pour determiner ce que les gens aiment
 
 Si on utilise des reseaux sociaux, comment déterminer l'age ?
@@ -13,3 +34,7 @@ Trouver des données sur des profils, analyse de leurs profils et de leurs caract
 selon ces caractéristiques
 
 Lien entre les données sur les profils récupérés et leur ville idéale à trouver
+
+Fait : Ville idéale pour un profil
+Dimensions : Individu (Age, Loisirs, Activité professionelle)
+	     Ville (
